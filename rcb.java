@@ -15,7 +15,7 @@ public class rcb {
         else{
             System.out.println("pota kohli");
         }
-        
+        rcb.close();
     }
     
 }
